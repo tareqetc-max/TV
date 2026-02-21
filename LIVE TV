@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://shorturl.at/5zXOc", BTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://shorturl.at/TP92q", SOMOY TV (Akash go)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://shorturl.at/Iarjk", EKATTOR TV (Akash go)
+https:\\owrcovcrpy.gpcdn.net\bpk-tv\1705\output\index.m3u8
