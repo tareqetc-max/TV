@@ -58,3 +58,11 @@ http://103.229.254.25:7001/play/a06f/index.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png",JAMUNA TV
 http://103.229.254.25:7001/play/a05y/index.m3u8
+
+
+
+#EXTINF:-1 group-title="CARRTON" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu-OScFOIbh5kuW-4ImoMGBho2GwXrqK5UQA&s",DISNEY JUNIOR 
+http://103.182.170.32:8888/play/a03q
+
+#EXTINF:-1 group-title="CARRTON" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH2k30IEPzlvBH0vaaoy5PtON_5zcPpbaShQ&s",DISNEY CHANNEL
+http://103.182.170.32:8888/play/a04g
